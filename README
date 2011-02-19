@@ -1,0 +1,9 @@
+These classes can be used to control Bitcoin accounts and addresses on Bitcoin network node.
+
+JSON-RPC is used to connect to bitcoind.
+
+Main goals are simplicity and performance.
+
+Requirements:
+* PHP 5.x (PHP 5.2.10 and above recommended) with usable HTTP fopen wrapper.
+* Bitcoin 0.3.19 and above
