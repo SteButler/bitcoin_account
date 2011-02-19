@@ -3,13 +3,13 @@
 * Bitcoin daemon control with accounts.
 * @author m0Ray <m0ray@nm.ru>
 * @version 1.0
-* @package BitcoinShop
+* @package BitcoinAccount
 */
 
 
 /**
 * User account class with some security restrictions.
-* @package BitcoinShop
+* @package BitcoinAccount
 */
 class BitcoinUser extends BitcoinAccount
 {

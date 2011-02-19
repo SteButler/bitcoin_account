@@ -29,6 +29,7 @@ Modified by m0Ray.
  * http://json-rpc.org/wiki/specification
  *
  * @author sergio <jsonrpcphp@inservibile.org>
+ * @author m0Ray <m0Ray@nm.ru>
  */
 class jsonRPCClient {
 	
